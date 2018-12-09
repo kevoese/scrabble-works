@@ -1,0 +1,19 @@
+{
+  "name": "scrabble-works",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrabble_script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevoese/scrabble-works.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevoese/scrabble-works/issues"
+  },
+  "homepage": "https://github.com/kevoese/scrabble-works#readme"
+}
